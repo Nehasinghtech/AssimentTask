@@ -1,0 +1,9 @@
+{
+  "buildCommand": "cd frontend/app && npm install && npm run build",
+  "outputDirectory": "frontend/app/dist",
+  "env": {
+    "VITE_API_URL": "@api_url"
+  },
+  "installCommand": "npm install --legacy-peer-deps",
+  "envPrefix": "VITE_"
+}
