@@ -44,6 +44,6 @@ app.use("/api/auth", require("./routes/authRoutes"));
 app.use("/api/problem", require("./routes/problemRoutes"));
 
 // ✅ FIXED PORT
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 1000;
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
