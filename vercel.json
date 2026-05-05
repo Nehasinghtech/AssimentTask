@@ -4,6 +4,5 @@
   "env": {
     "VITE_API_URL": "@api_url"
   },
-  "installCommand": "npm install --legacy-peer-deps",
-  "envPrefix": "VITE_"
+  "installCommand": "npm install --legacy-peer-deps"
 }
