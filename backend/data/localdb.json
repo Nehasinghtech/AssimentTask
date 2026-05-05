@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "_id": "dde962a4-16ad-4011-8c54-27193f589185",
+      "email": "testuser2@example.com",
+      "password": "$2b$10$HKzjjEAKJmv9UpT.CRK3b.tgOopJbm7zAukuB7HBhXyOiNUJrQ3Vu"
+    }
+  ],
+  "problems": []
+}
