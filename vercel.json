@@ -1,8 +1,0 @@
-{
-  "buildCommand": "cd frontend/app && npm install && npm run build",
-  "outputDirectory": "frontend/app/dist",
-  "env": {
-    "VITE_API_URL": "https://assimenttask.onrender.com"
-  },
-  "installCommand": "npm install --legacy-peer-deps"
-}
